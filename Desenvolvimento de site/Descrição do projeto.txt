@@ -1,0 +1,9 @@
+O projeto será organizado com o fundo em concordância com as cores próprias do horário no momento em que ele for acessado.
+
+As cores serão: bege para a manhã, laranja para a tarde e preto para a noite.
+
+Além disso, o site apresentará fotos de acordo com a faixa etária da pessoa que estará interagindo com ele. Para isso,
+será necessário perguntar a data de nascimento para a pessoa e, em seguida, apresentar todas as informações captadas das mesmas.
+
+A finalidade do site será criar um projeto modelo para iniciantes no estudo de Javascript, utilizando alguns comandos que
+promovem uma maior familiaridade dos iniciantes com a linguagem.
